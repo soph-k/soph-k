@@ -10,13 +10,13 @@
   
 - 🔭 I’m currently working on a typescript course
   
-- 🌱 I’m currently learning Typescript and GraphQL
+- 🌱 I’m currently learning Typescript and potentially GraphQL
   
-- 👯 I’m looking to collaborate on FiveM Projects
+- 👯 I’m looking to collaborate on MERN stack projects
   
 - 💬 Ask me about JS, React, MongoDB, etc..
   
-- ⚡ Fun fact: Dige Dige
+- ⚡ Fun fact: I speak three languages!
 <br/>
 
   
