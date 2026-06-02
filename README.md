@@ -80,15 +80,32 @@
 <!--- Analytics ---> 
 ## 𝐺𝑖𝑡𝐻𝑢𝑏 𝐴𝑛𝑎𝑙𝑦𝑡𝑖𝑐𝑠 ⚙️ &nbsp;  
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soph-k&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex&langs_count=8" 
-    alt="top languages" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=soph-k&show_icons=true&theme=dark&locale=en" 
-    alt="github stats" 
-    height="180"
-  />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soph-k&theme=github_dark" alt="Repos Per Language" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/soph-k/tiago-mapping-planning/tree/main/final">
+    <img src="https://img.shields.io/badge/TIAGo%20Autonomous%20System-Robotics%20%7C%20Python%20%7C%20Webots-6f42c1?style=for-the-badge&logo=python&logoColor=white" />
+    
+  <a href="https://github.com/soph-k/unsupervised/blob/main/soil.ipynb">
+    <img src="https://img.shields.io/badge/Soil%20%26%20Crop%20Analysis-ML%20%7C%20Pandas%20%7C%20Scikit--learn-2E8B57?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  </a>
+</p>
+
+<!---
+
+## Typing Animation Cards
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57EDC&center=true&vCenter=true&width=750&lines=M.S.+Computer+Science+Graduate;Entry-Level+Software+Engineer;Full-Stack+Developer;Python+%7C+React+%7C+TypeScript+%7C+Node.js;Building+clean%2C+practical%2C+user-focused+software" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=Software+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast;Data-Driven+Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=React+%7C+TypeScript+%7C+Python+%7C+Node.js;Building+clean+and+user-focused+software;Open+to+entry-level+software+roles" alt="Typing SVG" />
+</p>
+--->
